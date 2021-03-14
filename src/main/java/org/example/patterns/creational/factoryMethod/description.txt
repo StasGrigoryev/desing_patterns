@@ -1,0 +1,4 @@
+This is an example of cross-platform gui elements developing.
+Products - buttons, creators - dialogs.
+Each dialog corresponds to a particular element type.
+That's why for every dialog we create subclass and override a factory method.
